@@ -1,0 +1,59 @@
+.jumbotron {
+    color: #fff;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-image: -webkit-linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)),-webkit-image-set(url(../images/home-bg.jpg) 1x,url(../images/home-bg.jpg) 2x);
+  }
+  
+  .lead span {
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .bg-cover {
+    background-size: cover;
+    color: white;
+    background-position: center center;
+    position: relative;
+    z-index: -2;
+  }
+  
+  .overlay {
+    background-color: #000;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+
+main {
+  padding-top: 4rem!important;
+}
+  .fixed-bottom, .fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.fixed-top {
+    top: 0;
+}
+.border-dark {
+    border-color: #262626!important;
+}
+.border-bottom {
+    border-bottom: 1px solid #262626!important;
+}
+.bg-black {
+    background-color: #0e0e0e!important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}

@@ -1,0 +1,1070 @@
+{
+    "title": "Controles Word 2010 (v20200212)",
+    "questions": [
+        {
+            "type": "command",
+            "text": " Copiar formatos (brocha).",
+            "answer": "CTRL+MAYÚS+C"
+        },
+        {
+            "type": "command",
+            "text": " Alinear a la derecha.",
+            "answer": "CTRL+D"
+        },
+        {
+            "type": "command",
+            "text": " Seleccionar todo.",
+            "answer": "CTRL+E"
+        },
+        {
+            "type": "command",
+            "text": " Crear sangría francesa.",
+            "answer": "CTRL+F"
+        },
+        {
+            "type": "command",
+            "text": " Guardar o guardar como (F12).",
+            "answer": "CTRL+G"
+        },
+        {
+            "type": "command",
+            "text": " Sangrar un párrafo a la izquierda. Si se pulsa dos veces sangría anidada 2,5.",
+            "answer": "CTRL+H"
+        },
+        {
+            "type": "command",
+            "text": " Ir a un marcador de página, nota al pie, tabla, comentario, gráfico u otra posición (F5).",
+            "answer": "CTRL+I"
+        },
+        {
+            "type": "command",
+            "text": " Alineación justificada.",
+            "answer": "CTRL+J"
+        },
+        {
+            "type": "command",
+            "text": " Cursiva.",
+            "answer": "CTRL+K"
+        },
+        {
+            "type": "command",
+            "text": " Reemplazar texto, formato específico y elementos especiales.",
+            "answer": "CTRL+L"
+        },
+        {
+            "type": "command",
+            "text": " Menú formato. Fuente.",
+            "answer": "CTRL+M"
+        },
+        {
+            "type": "command",
+            "text": " Negrita.",
+            "answer": "CTRL+N"
+        },
+        {
+            "type": "command",
+            "text": " Iniciar automáticamente el autoformato.",
+            "answer": "CTRL+O"
+        },
+        {
+            "type": "command",
+            "text": " Imprimir.",
+            "answer": "CTRL+P"
+        },
+        {
+            "type": "command",
+            "text": " Alinear a la izquierda.",
+            "answer": "CTRL+Q"
+        },
+        {
+            "type": "command",
+            "text": " Cerrar un documento.",
+            "answer": "CTRL+R"
+        },
+        {
+            "type": "command",
+            "text": " Subrayado.",
+            "answer": "CTRL+S"
+        },
+        {
+            "type": "command",
+            "text": " Alineación centrada.",
+            "answer": "CTRL+T"
+        },
+        {
+            "type": "command",
+            "text": " Nuevo documento en blanco.",
+            "answer": "CTRL+U"
+        },
+        {
+            "type": "command",
+            "text": " Pegar.",
+            "answer": "CTRL+V"
+        },
+        {
+            "type": "command",
+            "text": " Pegar formatos (brocha).",
+            "answer": "CTRL+MAYÚS+V"
+        },
+        {
+            "type": "command",
+            "text": " Eliminar el formato de párrafo.",
+            "answer": "CTRL+W"
+        },
+        {
+            "type": "command",
+            "text": " Cortar.",
+            "answer": "CTRL+X"
+        },
+        {
+            "type": "command",
+            "text": " Rehacer o repetir una acción (F4).",
+            "answer": "CTRL+Y"
+        },
+        {
+            "type": "command",
+            "text": " Deshacer.",
+            "answer": "CTRL+Z"
+        },
+        {
+            "type": "command",
+            "text": " Cancelar una acción o cerrar sin aceptar.",
+            "answer": "ESCAPE"
+        },
+        {
+            "type": "command",
+            "text": " Disminuir el tamaño de la fuente.",
+            "answer": "CTRL+\u003c"
+        },
+        {
+            "type": "command",
+            "text": " Aumentar el tamaño de la fuente.",
+            "answer": "CTRL+MAYÚS+\u003e"
+        },
+        {
+            "type": "command",
+            "text": " Eliminar manualmente el formato de caracteres.",
+            "answer": "CTRL+ESPACIO"
+        },
+        {
+            "type": "command",
+            "text": " Cambiar la fuente.",
+            "answer": "CTRL+MAYÚS+F"
+        },
+        {
+            "type": "command",
+            "text": " Cambiar el tamaño de la fuente.",
+            "answer": "CTRL+MAYÚS+M"
+        },
+        {
+            "type": "command",
+            "text": " Subrayar palabras, pero no espacios.",
+            "answer": "CTRL+MAYÚS+P"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar doble subrayado.",
+            "answer": "CTRL+MAYÚS+D"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar formato de texto oculto.",
+            "answer": "CTRL+MAYÚS+O"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar formato de versales.",
+            "answer": "CTRL+MAYÚS+L"
+        },
+        {
+            "type": "command",
+            "text": " Quitar sangría (si son anidadas dos veces).",
+            "answer": "CTRL+MAYÚS+R"
+        },
+        {
+            "type": "command",
+            "text": " Qutar sangría francesa.",
+            "answer": "CTRL+MAYÚS+G"
+        },
+        {
+            "type": "command",
+            "text": " Líneas a un espacio o espacio simple.",
+            "answer": "CTRL+1"
+        },
+        {
+            "type": "command",
+            "text": " Líneas a dos espacios o espacio doble.",
+            "answer": "CTRL+2"
+        },
+        {
+            "type": "command",
+            "text": " ¡Cuidado! Bloquear campos.",
+            "answer": "CTRL+3"
+        },
+        {
+            "type": "command",
+            "text": " Líneas con espaciado de 1,5 líneas.",
+            "answer": "CTRL+5"
+        },
+        {
+            "type": "command",
+            "text": " Agregar o suprimir un espacio de una línea antes de un párrafo. Abrir o cerrar párrafo.",
+            "answer": "CTRL+0"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar estilo normal.",
+            "answer": "CTRL+MAYÚS+A"
+        },
+        {
+            "type": "command",
+            "text": " Lista con viñetas.",
+            "answer": "CTRL+MAYÚS+I"
+        },
+        {
+            "type": "command",
+            "text": " Eliminar una palabra a la izquierda.",
+            "answer": "CTRL+RETROCESO"
+        },
+        {
+            "type": "command",
+            "text": " Eliminar una palabra a la derecha.",
+            "answer": "CTRL+SUPR"
+        },
+        {
+            "type": "command",
+            "text": " Insertar salto de página.",
+            "answer": "CTRL+INTRO"
+        },
+        {
+            "type": "command",
+            "text": " Insertar un salto de columna.",
+            "answer": "CTRL+MAYÚS+INTRO"
+        },
+        {
+            "type": "command",
+            "text": " Insertar marcador.",
+            "answer": "CTRL+MAYÚS+F5"
+        },
+        {
+            "type": "command",
+            "text": " Insertar un espacio de no separación.",
+            "answer": "CTRL+MAYÚS+ESPACIO"
+        },
+        {
+            "type": "command",
+            "text": " Símbolo del copyright ©",
+            "answer": "CTRL+ALT+C"
+        },
+        {
+            "type": "command",
+            "text": " Insertar comentario.",
+            "answer": "CTRL+ALT+A"
+        },
+        {
+            "type": "command",
+            "text": " Insertar nota a pie de página.",
+            "answer": "CTRL+ALT+O"
+        },
+        {
+            "type": "command",
+            "text": " Insertar nota al final.",
+            "answer": "CTRL+ALT+L"
+        },
+        {
+            "type": "command",
+            "text": " Símbolo de marca registrada ®",
+            "answer": "ALT+CTRL+R"
+        },
+        {
+            "type": "command",
+            "text": "ALT+CTRL+T Símbolo de marca comercial TM",
+            "answer": "ALT+CTRL+TSÍMBOLODEMARCACOMERCIALTM"
+        },
+        {
+            "type": "command",
+            "text": " Puntos suspensivos",
+            "answer": "CTRL+ALT+."
+        },
+        {
+            "type": "command",
+            "text": " Insertar o modificar hipervínculo.",
+            "answer": "ALT+CTRL+K"
+        },
+        {
+            "type": "command",
+            "text": " Ir al principio del documento.",
+            "answer": "CTRL+INICIO"
+        },
+        {
+            "type": "command",
+            "text": " Ir al final del documento.",
+            "answer": "CTRL+FIN"
+        },
+        {
+            "type": "command",
+            "text": " Crear tabulaciones en una celda.",
+            "answer": "CTRL+TAB"
+        },
+        {
+            "type": "command",
+            "text": " Ver menú 'Inicio' de Windows.",
+            "answer": "CTRL+ESCAPE"
+        },
+        {
+            "type": "command",
+            "text": " Activar la vista preliminar (CTRL+F2).",
+            "answer": "ALT+CTRL+I"
+        },
+        {
+            "type": "command",
+            "text": " Dividir un documento.",
+            "answer": "ALT+CTRL+V"
+        },
+        {
+            "type": "command",
+            "text": " Cerrar o salir de Word.",
+            "answer": "ALT+F4"
+        },
+        {
+            "type": "command",
+            "text": " Alternar entre ventanas.",
+            "answer": "ALT+TAB"
+        },
+        {
+            "type": "command",
+            "text": " Pasar a vista 'Diseño de impresión'.",
+            "answer": "ALT+CTRL+D"
+        },
+        {
+            "type": "command",
+            "text": " Símbolo del euro €",
+            "answer": "ALT+CTRL+E"
+        },
+        {
+            "type": "command",
+            "text": " Situarse al principio del documento y revisar ortografía y gramática.",
+            "answer": "F7"
+        },
+        {
+            "type": "command",
+            "text": " Buscar sinónimos.",
+            "answer": "MAYÚS+F7"
+        },
+        {
+            "type": "command",
+            "text": " Seleccionar párrafo.",
+            "answer": "ALT+MAYÚS"
+        },
+        {
+            "type": "command",
+            "text": " Insertar fecha.",
+            "answer": "ALT+MAYÚS+F"
+        },
+        {
+            "type": "command",
+            "text": " Insertar hora.",
+            "answer": "ALT+MAYÚS+H"
+        },
+        {
+            "type": "command",
+            "text": " Crear autotexto.",
+            "answer": "ALT+F3"
+        },
+        {
+            "type": "command",
+            "text": " Insertar un salto de línea manual.",
+            "answer": "MAYÚS+INTRO"
+        },
+        {
+            "type": "command",
+            "text": " Mostrar todos los campos.",
+            "answer": "ALT+F9"
+        },
+        {
+            "type": "command",
+            "text": " Actualizar campos.",
+            "answer": "F9"
+        },
+        {
+            "type": "command",
+            "text": " Cerrar el documento activo (en las aplicaciones que están abiertas a pantalla completa y que te permiten tener abiertos varios documentos simultáneamente)",
+            "answer": "CTRL+F4"
+        },
+        {
+            "type": "command",
+            "text": " Vista borrador",
+            "answer": "CTRL+ALT+N"
+        },
+        {
+            "type": "command",
+            "text": " Vista “normal”",
+            "answer": "ALT+CTRL+D"
+        },
+        {
+            "type": "command",
+            "text": " Abrir panel tareas estilos",
+            "answer": "ALT+CTRL+MAYÚS+S"
+        },
+        {
+            "type": "command",
+            "text": " Ir a SmartArt",
+            "answer": "ALT+B+M"
+        },
+        {
+            "type": "command",
+            "text": " Ir a WordArt",
+            "answer": "ALT+B+W"
+        },
+        {
+            "type": "command",
+            "text": " Cambiar selección a la fuente Symbol",
+            "answer": "CTRL+MAYÚS+Q"
+        },
+        {
+            "type": "command",
+            "text": " Vista borrador",
+            "answer": "CTRL+ALT+N"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar estilo título 1",
+            "answer": "CTRL+MAYÚS+1"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar estilo título 2",
+            "answer": "CTRL+MAYÚS+2"
+        },
+        {
+            "type": "command",
+            "text": " Aplicar estilo título 3",
+            "answer": "CTRL+MAYÚS+3"
+        },
+        {
+            "type": "command",
+            "text": " Muestra la ayuda de Word",
+            "answer": "F1"
+        },
+        {
+            "type": "command",
+            "text": " Mueve texto o gráficos",
+            "answer": "F2"
+        },
+        {
+            "type": "command",
+            "text": " Repite la última acción",
+            "answer": "F4"
+        },
+        {
+            "type": "command",
+            "text": " Abre la ventana de buscar y reemplazar",
+            "answer": "F5"
+        },
+        {
+            "type": "command",
+            "text": " Ir al panel o marco siguiente",
+            "answer": "F6"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña Revisar de la corrección ortográfica",
+            "answer": "F7"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar una selección",
+            "answer": "F8"
+        },
+        {
+            "type": "command",
+            "text": " Actualizar campos seleccionados",
+            "answer": "F9"
+        },
+        {
+            "type": "command",
+            "text": " Mostrar KeyTips, con las teclas para ir a los diferentes menús",
+            "answer": "F10"
+        },
+        {
+            "type": "command",
+            "text": " Ve al campo siguiente",
+            "answer": "F11"
+        },
+        {
+            "type": "command",
+            "text": " Ve al menú de Guardar o guardar cómo",
+            "answer": "F12"
+        },
+        {
+            "type": "command",
+            "text": " Abre las opciones de mostrar formato o iniciar ayuda contextual",
+            "answer": "MAYÚS+F1"
+        },
+        {
+            "type": "command",
+            "text": " Copiar texto",
+            "answer": "MAYÚS+F2"
+        },
+        {
+            "type": "command",
+            "text": " Alterna entre primera mayúscula, todo mayúsculas o todo minúsculas",
+            "answer": "MAYÚS+F3"
+        },
+        {
+            "type": "command",
+            "text": " Repetir una acción de búsqueda de palabras, “buscar” o “ir a”",
+            "answer": "MAYÚS+F4"
+        },
+        {
+            "type": "command",
+            "text": " Desplazarse entre los últimos cambios que se ha hecho",
+            "answer": "MAYÚS+F5"
+        },
+        {
+            "type": "command",
+            "text": " ve al panel o marco anterior",
+            "answer": "MAYÚS+F6"
+        },
+        {
+            "type": "command",
+            "text": " Abre la ventana de búsqueda de sinónimos",
+            "answer": "MAYÚS+F7"
+        },
+        {
+            "type": "command",
+            "text": " Si tienes toda una frase o varias palabras seleccionadas, reduce el tamaño de la selección",
+            "answer": "MAYÚS+F8"
+        },
+        {
+            "type": "command",
+            "text": "MAYÚS + F9 Pasar de un código de campo a su resultado y viceversa",
+            "answer": "MAYÚS+F9PASARDEUNCÓDIGODECAMPOASURESULTADOYVICEVERSA"
+        },
+        {
+            "type": "command",
+            "text": "MAYÚS + F10 Muestra el menú contextual",
+            "answer": "MAYÚS+F10MUESTRAELMENÚCONTEXTUAL"
+        },
+        {
+            "type": "command",
+            "text": " Ve al campo anterior",
+            "answer": "MAYÚS+F11"
+        },
+        {
+            "type": "command",
+            "text": " Ve al menú de Guardar cómo",
+            "answer": "MAYÚS+F12"
+        },
+        {
+            "type": "command",
+            "text": " Abrir o cerrar la fila de opciones que hay sobre el texto",
+            "answer": "CTRL+F1"
+        },
+        {
+            "type": "command",
+            "text": " Ve al menú de Imprimir “vista previa impresión”",
+            "answer": "CTRL+F2"
+        },
+        {
+            "type": "command",
+            "text": " Corta y pegar en Especial",
+            "answer": "CTRL+F3"
+        },
+        {
+            "type": "command",
+            "text": " Cierra la ventana",
+            "answer": "CTRL+F4"
+        },
+        {
+            "type": "command",
+            "text": " Moverse a la siguiente ventana",
+            "answer": "CTRL+F6"
+        },
+        {
+            "type": "command",
+            "text": " Inserta un campo vacío",
+            "answer": "CTRL+F9"
+        },
+        {
+            "type": "command",
+            "text": " Maximiza la ventana",
+            "answer": "CTRL+F10"
+        },
+        {
+            "type": "command",
+            "text": " Bloquea un campo",
+            "answer": "CTRL+F11"
+        },
+        {
+            "type": "command",
+            "text": " Ve al menú de Abrir",
+            "answer": "CTRL+F12"
+        },
+        {
+            "type": "command",
+            "text": " Ve al siguiente campo",
+            "answer": "ALT+F1"
+        },
+        {
+            "type": "command",
+            "text": " Crear un nuevo Bloque de creación",
+            "answer": "ALT+F3"
+        },
+        {
+            "type": "command",
+            "text": " Cierra Word",
+            "answer": "ALT+F4"
+        },
+        {
+            "type": "command",
+            "text": " Restaura el tamaño de la ventana de Word",
+            "answer": "ALT+F5"
+        },
+        {
+            "type": "command",
+            "text": " Vuelve al documento desde el cuadro de diálogo, por lo menos si este lo permite",
+            "answer": "ALT+F6"
+        },
+        {
+            "type": "command",
+            "text": " Ve al siguiente error ortográfico o gramatical",
+            "answer": "ALT+F7"
+        },
+        {
+            "type": "command",
+            "text": " Cuadro de diálogo Macro o ejecutar una macro",
+            "answer": "ALT+F8"
+        },
+        {
+            "type": "command",
+            "text": " Cambiar entre todos los códigos de campo y sus resultados, mostrar todos los campos",
+            "answer": "ALT+F9"
+        },
+        {
+            "type": "command",
+            "text": " Abre el panel de Selección",
+            "answer": "ALT+F10"
+        },
+        {
+            "type": "command",
+            "text": " Abre una ventana con el código de Visual Basic",
+            "answer": "ALT+F11"
+        },
+        {
+            "type": "command",
+            "text": " Inserta el contenido de Especial",
+            "answer": "CTRL+MAYÚS+F3"
+        },
+        {
+            "type": "command",
+            "text": " Abre la ventana de Marcador",
+            "answer": "CTRL+MAYÚS+F5"
+        },
+        {
+            "type": "command",
+            "text": " Ve a la ventana anterior",
+            "answer": "CTRL+MAYÚS+F6"
+        },
+        {
+            "type": "command",
+            "text": " Actualiza la información vinculada en un documento de origen de Word",
+            "answer": "CTRL+MAYÚS+F7"
+        },
+        {
+            "type": "command",
+            "text": " Desvincula un campo",
+            "answer": "CTRL+MAYÚS+F9"
+        },
+        {
+            "type": "command",
+            "text": " Desbloquea un campo",
+            "answer": "CTRL+MAYÚS+F11"
+        },
+        {
+            "type": "command",
+            "text": " Abre la ventana de Imprimir",
+            "answer": "CTRL+MAYÚS+F12"
+        },
+        {
+            "type": "command",
+            "text": " Ve al campo anterior",
+            "answer": "ALT+MAYÚS+F1"
+        },
+        {
+            "type": "command",
+            "text": " Abre el menú de guardar",
+            "answer": "ALT+MAYÚS+F2"
+        },
+        {
+            "type": "command",
+            "text": " EJECUTA LAS ACCIONES GOTOBUTTON O 1 MACROBUTTON DESDE el campo que muestra los resultados de campo",
+            "answer": "ALT+MAYÚS+F9"
+        },
+        {
+            "type": "command",
+            "text": " Te muestra un menú o un mensaje de acción disponible",
+            "answer": "ALT+MAYÚS+F10"
+        },
+        {
+            "type": "command",
+            "text": " Cuando tengas abierto el contenedor de tabla de contenido, elige el botón Tabla de contenido",
+            "answer": "ALT+MAYÚS+F12"
+        },
+        {
+            "type": "command",
+            "text": " Abre la ventana del explorador para abrir documento",
+            "answer": "CTRL+ALT+F2"
+        },
+        {
+            "type": "command",
+            "text": " Ve al menú principal, abriendo la opción de Archivo",
+            "answer": "ALT+A"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Diseño, para usar temas, colores y efectos.",
+            "answer": "ALT+C"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Inicio",
+            "answer": "ALT+O"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Correspondencia",
+            "answer": "ALT+D"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Insertar",
+            "answer": "ALT+B"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Diseño, para trabajar con márgenes de páginas, su orientación, sangría y espaciado",
+            "answer": "ALT+C1"
+        },
+        {
+            "type": "command",
+            "text": " Abre el cuadro de Información para hacer búsquedas de contenido de ayuda",
+            "answer": "ALT+Q"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Revisar",
+            "answer": "ALT+R"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Referencia",
+            "answer": "ALT+S"
+        },
+        {
+            "type": "command",
+            "text": " Abre la pestaña de Vista",
+            "answer": "ALT+N"
+        },
+        {
+            "type": "command",
+            "text": " Reducir el tamaño de una selección.",
+            "answer": "MAYÚS+F8"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar la selección un carácter hacia la derecha.",
+            "answer": "MAYÚS+DERECHA"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar la selección un carácter hacia la izquierda.",
+            "answer": "MAYÚS+IZQUIERDA"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el final de una palabra.",
+            "answer": "CTRL+MAYÚS+DERECHA"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el inicio de una palabra.",
+            "answer": "CTRL+MAYÚS+IZQUIERDA"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el final de una línea",
+            "answer": "MAYÚS+FIN"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el inicio de una línea",
+            "answer": "MAYÚS+INICIO"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el final de un párrafo.",
+            "answer": "CTRL+MAYÚS+ABAJO"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el inicio de un párrafo.",
+            "answer": "CTRL+MAYÚS+ARRIBA"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección una pantalla hacia abajo",
+            "answer": "MAYÚS+AVPÁG"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección una pantalla hacia arriba.",
+            "answer": "MAYÚS+REPÁG"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar la selección hasta el final de un documento.",
+            "answer": "CTRL+MAYÚS+FIN"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar la selección hasta el inicio de un documento.",
+            "answer": "CTRL+MAYÚS+INICIO"
+        },
+        {
+            "type": "command",
+            "text": " Ampliar selección hasta el final de una ventana.",
+            "answer": "ALT+CTRL+MAYÚS+AVPÁG"
+        },
+        {
+            "type": "command",
+            "text": " Abrir el Portapapeles de Office.",
+            "answer": "ALT+O,F,O"
+        },
+        {
+            "type": "command",
+            "text": " Seleccionar el contenido de la celda siguiente.",
+            "answer": "TAB"
+        },
+        {
+            "type": "command",
+            "text": " seleccionar el contenido de la celda anterior.",
+            "answer": "MAYÚS+TAB"
+        },
+        {
+            "type": "command",
+            "text": " seleccionar la columna de arriba hacia abajo.",
+            "answer": "MAYÚS+ALT+AVPÁG"
+        },
+        {
+            "type": "command",
+            "text": " seleccionar la columna de abajo hacia arriba.",
+            "answer": "MAYÚS+ALT+REPÁG"
+        },
+        {
+            "type": "command",
+            "text": " seleccionar la fila de izquierda a derecha.",
+            "answer": "MAYÚS+ALT+FIN"
+        },
+        {
+            "type": "command",
+            "text": " seleccionar la fla de derecha a izquierda.",
+            "answer": "MAYÚS+ALT+INICIO"
+        },
+        {
+            "type": "command",
+            "text": " abrir el panel de tareas Estilos.",
+            "answer": "ALT+CTRL+MAYÚS+S"
+        },
+        {
+            "type": "command",
+            "text": " Quita la división de la ventana de un documento",
+            "answer": "ALT+CTRL+V"
+        },
+        {
+            "type": "command",
+            "text": " Ve a la página anterior",
+            "answer": "ALT+IZQUIERDA"
+        },
+        {
+            "type": "command",
+            "text": " Ve a la página siguiente",
+            "answer": "ALT+DERECHA"
+        },
+        {
+            "type": "command",
+            "text": " En qué parte del menú se encuentra la opción “párrafo”?",
+            "answer": "INICIO"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “Cambiar estilos”?",
+            "answer": "INICIO"
+        },
+        {
+            "type": "command",
+            "text": " En qué parte del menú se encuentra la opción “estilos”?",
+            "answer": "INICIO"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción “Portada”?",
+            "answer": "INSERTAR"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción “Referencia cruzada”?",
+            "answer": "INSERTAR+REFERENCIAS"
+        },
+        {
+            "type": "command",
+            "text": " En que menú podemos encontrar el icono de gráfico?",
+            "answer": "INSERTAR\u003eILUSTRACIONES"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar el icono de “smarArt”?",
+            "answer": "INSERTAR\u003eILUSTRACIONES"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de añadir un número de página?",
+            "answer": "INSERTAR\u003eENCABEZADO Y PIE DE PÁGINA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “fecha y hora”?",
+            "answer": "INSERTAR\u003eTEXTO"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “elementos rápidos”?",
+            "answer": "INSERTAR\u003eTEXTO"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “columnas”?",
+            "answer": "DISEÑO PÁGINA\u003eCONFIGURAR PÁGINA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “marca de agua”?",
+            "answer": "DISEÑO PÁGINA\u003eFONDO DE PÁGINA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de aplicar sangría o espaciado?",
+            "answer": "DISEÑO PÁGINA\u003ePÁRRAFO"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “TEMAS”?",
+            "answer": "DISEÑOPÁGINA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “tabla de contenido”?",
+            "answer": "REFERENCIAS"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “nota al pie”?",
+            "answer": "REFERENCIAS"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “insertar título”?",
+            "answer": "REFERENCIAS"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “marcar entrada”?",
+            "answer": "REFERENCIAS"
+        },
+        {
+            "type": "command",
+            "text": " Qué permite incluir el texto seleccionado en el índice del documento?",
+            "answer": "MARCAR ENTRADA"
+        },
+        {
+            "type": "command",
+            "text": " Qué agrega el texto seleccionado como una entrada a la tabla de autoridades:",
+            "answer": "MARCAR CITA"
+        },
+        {
+            "type": "command",
+            "text": " Qué se puede encontrar en el menú CORRESPONDENCIA \u003e Crear?",
+            "answer": "SOBRES Y ETIQUETAS"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “Nuevo comentario”?",
+            "answer": "REVISAR"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “contar palabras”?",
+            "answer": "REVISAR"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “comparar”?",
+            "answer": "REVISAR"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “restringir edición”?",
+            "answer": "REVISAR"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “REGLA”?",
+            "answer": "VISTA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “líneas de la cuadrícula”?",
+            "answer": "VISTA"
+        },
+        {
+            "type": "command",
+            "text": " En qué menú podemos encontrar la opción de “Panel de navegación”?",
+            "answer": "VISTA"
+        },
+        {
+            "type": "command",
+            "text": " Qué función coloca en mosaico todas las ventanas de los programas abiertos en paralelo en la pantalla?",
+            "answer": "ORGANIZAR TODO"
+        },
+        {
+            "type": "command",
+            "text": " Mayúsculas directamente",
+            "answer": "CTRL+MAYÚS+U"
+        },
+        {
+            "type": "command",
+            "text": " Negrita",
+            "answer": "CTRL+MAYÚS+N"
+        },
+        {
+            "type": "command",
+            "text": " Tachar texto",
+            "answer": "ALT+O+J"
+        },
+        {
+            "type": "command",
+            "text": " Subíndice",
+            "answer": "CTRL+="
+        },
+        {
+            "type": "command",
+            "text": " Superíndice",
+            "answer": "CTRL++"
+        },
+        {
+            "type": "command",
+            "text": " Restablece tamaño fuente",
+            "answer": "CTRL+MAYÚS+Z"
+        }
+    ]
+}
