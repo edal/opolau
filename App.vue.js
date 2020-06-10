@@ -124,7 +124,7 @@ Vue.component('quiz', {
     handleResults() {
       console.log('handle results');
       this.questions.forEach((a, index) => {
-        if(this.answers[index].trim().toUpperCase() === a.answer.trim().toUpperCase()) this.correct++;        
+        if(this.answers[index] && this.answers[index].trim().toUpperCase() === a.answer.trim().toUpperCase()) this.correct++;        
       });
       this.perc = ((this.correct / this.questions.length)*100).toFixed(2);
       console.log(this.correct+' '+this.perc);
