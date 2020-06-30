@@ -106,7 +106,7 @@ MAYÚS + F7: Abre la ventana de búsqueda de sinónimos
 MAYÚS + F8: Si tienes toda una frase o varias palabras seleccionadas, reduce el tamaño de la selección
 MAYÚS + F9 Pasar de un código de campo a su resultado y viceversa
 MAYÚS + F10 Muestra el menú contextual
-MAYÚS + F11 o ALT+MAYUS+F1: Ve al campo anterior
+MAYÚS + F11 o ALT+MAYÚS+F1: Ve al campo anterior
 MAYÚS + F12: Ve al menú de Guardar cómo
 CTRL + F1: Abrir o cerrar la fila de opciones que hay sobre el texto
 CTRL + F2: Ve al menú de Imprimir “vista previa impresión”
@@ -212,18 +212,18 @@ CTRL + MAYÚS + Z: Restablece tamaña fuente
 CTRL+ALT+G: Abrir el cuadro “Pegado especial”
 CTRL+Y: Rehacer una accion
 CTRL+INSERT: Permite copiar el texto*
-MAYUS+INSERT: Permite pegar el texto*
-F8x2: Seleccionar palabra
+MAYÚS+INSERT: Permite pegar el texto*
+F8x2: Seleccionar palabra con f8
 F8x3: Seleccionar frase
-F8x4: Seleccionar parrafo
-F8x5: Seleccionar todo
-1 click: Selecionar palabra
+F8x4: Seleccionar parrafo con f8
+F8x5: Seleccionar todo con f8
+1 click: Selecionar palabra con click
 3 click: Seleccionar parrafo mediante ratón
-CTRL+MAYUS+W: Abrir el panel aplicar estilos
+CTRL+MAYÚS+W: Abrir el panel aplicar estilos
 Selecionar todo el parrafo: 2 click en margen izquierdo
 Selecionar todo el texto del documento: 3 click en el margen izquierdo
 selecionar todo el texto del documento: CTRL + unico click en margen izquierdo
-selecciona la palabra que se encuentra al final: 2 clic margen derecho
+selecciona la última palabra: 2 clic margen derecho
 NADA: 1 clic margen derecho
 seleciona una oracion:CTRL + unico clic en el margen derecho
 CTRL+ALT+<: Disminuir tamaño de fuente un punto
