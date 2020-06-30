@@ -533,13 +533,13 @@
         },
 {
             "type": "command", 
-            "text": "MAYÚS + F9 Pasar de un código de campo a su resultado y viceversa", 
-            "answer": "MAYÚS + F9 Pasar de un código de campo a su resultado y viceversa" 
+            "text": " Pasar de un código de campo a su resultado y viceversa", 
+            "answer": "MAYÚS + F9" 
         },
 {
             "type": "command", 
-            "text": "MAYÚS + F10 Muestra el menú contextual", 
-            "answer": "MAYÚS + F10 Muestra el menú contextual" 
+            "text": " Muestra el menú contextual", 
+            "answer": "MAYÚS + F10" 
         },
 {
             "type": "command", 
