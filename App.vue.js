@@ -66,10 +66,10 @@ Vue.component('quiz', {
           </thead>
           <tbody>
             <tr v-for="(question,index) in questions">
-              <th scope="row" class="alert" v-bind:class="{ 'alert-danger': question.answer!=answers[index], 'alert-success': question.answer===answers[index] }">{{index+1}}</th>
-              <td class="alert" v-bind:class="{ 'alert-danger': question.answer!=answers[index], 'alert-success': question.answer===answers[index] }">{{question.text}}</td>
-              <td class="alert" v-bind:class="{ 'alert-danger': question.answer!=answers[index], 'alert-success': question.answer===answers[index] }">{{question.answer}}</td>
-              <td class="alert" v-bind:class="{ 'alert-danger': question.answer!=answers[index], 'alert-success': question.answer===answers[index] }">{{answers[index]}}</td>
+              <th scope="row" class="alert" v-bind:class="{ 'alert-danger': !marks[index], 'alert-success': marks[index] }">{{index+1}}</th>
+              <td class="alert" v-bind:class="{ 'alert-danger': !marks[index], 'alert-success': marks[index] }">{{question.text}}</td>
+              <td class="alert" v-bind:class="{ 'alert-danger': !marks[index], 'alert-success': marks[index] }">{{question.answer}}</td>
+              <td class="alert" v-bind:class="{ 'alert-danger': !marks[index], 'alert-success': marks[index] }">{{answers[index]}}</td>
             </tr>
           </tbody>
         </table>
@@ -91,6 +91,7 @@ Vue.component('quiz', {
       questions:[],
       currentQuestion:0,
       answers:[],
+      marks:[],
       correct:0,
       perc:null
     }
@@ -124,7 +125,12 @@ Vue.component('quiz', {
     handleResults() {
       console.log('handle results');
       this.questions.forEach((a, index) => {
-        if(this.answers[index].trim().toUpperCase() === a.answer.trim().toUpperCase()) this.correct++;        
+        if(this.answers[index] && this.answers[index].replace(/\s/g, '').toUpperCase() === a.answer.replace(/\s/g, '').toUpperCase()) { 
+          this.correct++;        
+          this.marks.push(true);
+        } else {
+          this.marks.push(false);
+        }
       });
       this.perc = ((this.correct / this.questions.length)*100).toFixed(2);
       console.log(this.correct+' '+this.perc);
@@ -217,7 +223,8 @@ Vue.component('question', {
     },
     validateAnswer:function() {
       this.isReadOnly=true;
-      this.hasError=!(this.answer===this.question.answer)
+      this.hasError=!(this.answer && this.answer.replace(/\s/g, '').toUpperCase() === this.question.answer.replace(/\s/g, '').toUpperCase());       
+      //this.hasError=!(this.answer===this.question.answer)
       this.isCorrect=!this.hasError;
       console.log(this.hasError);
       this.correctAnswer=this.question.answer;
